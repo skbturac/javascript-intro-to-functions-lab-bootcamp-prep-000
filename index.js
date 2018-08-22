@@ -10,6 +10,7 @@ function logShout() {
 function logWhisper(){
   console.log('hello');
 }
+logShout()
 
 //var logWhisper = 'hello'
 //var logShout = 'Hello'
