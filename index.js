@@ -17,7 +17,7 @@ function logWhisper(){
 //var toLowerCase ='hello!';
 //var toMixedCase = 'Hi there!';
 
-lowercase.toLowerCase() === lowercase;
+//lowercase.toLowerCase() === lowercase;
 uppercase.toUpperCase() === uppercase;
 logShout.toUpperCase() === mixedCase;
 logWhisper.toLowerCase() === lowercase;
