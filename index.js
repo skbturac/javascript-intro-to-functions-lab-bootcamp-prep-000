@@ -18,9 +18,9 @@ function logWhisper(){
 //var toMixedCase = 'Hi there!';
 
 //lowercase.toLowerCase() === lowercase;
-uppercase.toUpperCase() === uppercase;
-logShout.toUpperCase() === mixedCase;
-logWhisper.toLowerCase() === lowercase;
+//ppercase.toUpperCase() === uppercase;
+//logShout.toUpperCase() === mixedCase;
+//logWhisper.toLowerCase() === lowercase;
 //mixedCase.toMixedCase() === mixedCase 
 
 function sayHiToGrandma(string) {
