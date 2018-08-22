@@ -8,7 +8,7 @@ function logShout(string){
   return string.console.log()
 }
 function logWhisper(string){
-  return string.toLowerCase()
+  return string.console.log()
 }
 
 var logWhisper = 'hello'
