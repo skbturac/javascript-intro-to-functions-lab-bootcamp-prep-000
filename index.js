@@ -24,10 +24,10 @@ logWhisper.toLowerCase() === lowercase
 mixedCase.toMixedCase() === mixedCase 
 
 function sayHiToGrandma(string) {
-  if ((string)===uppercase) {
+  if ((string)===string.toUpperCase()) {
     return 'YES INDEED!'
   }
-  else if ((string)===lowercase) {
+  else if ((string)===string.toLowerCase()) {
     return "I can't hear you!"
   }
   else if ((string)==="I love you, Grandma.") {
